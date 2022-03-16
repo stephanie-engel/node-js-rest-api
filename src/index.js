@@ -65,4 +65,3 @@ const createUsersWithMessages = async () => {
       },
     );
 };
-//TODO! Stopped here: At the top of the file, you create a Sequelize instance - https://www.robinwieruch.de/postgres-express-setup-tutorial/
